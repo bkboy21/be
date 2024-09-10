@@ -2,6 +2,12 @@
   "expo": {
     "name": "beparent",
     "slug": "beparent",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "android": {
+      "package": "com.beparent"
+    },
+    "ios": {
+      "bundleIdentifier": "com.beparent"
+    }
   }
 }
